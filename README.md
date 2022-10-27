@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radi</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra9k0" alt="ra9k0" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611cf49941502ccc5af7e7ef24a41c827c0cb8e3fa1&rid=giphy.gif&ct=g">
 
 - 🌱 I'm currently studying **C# in SoftUni**
 
