@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radi</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ra9k0" alt="ra9k0" /></a> </p>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 - 🌱 I'm currently studying **C# in SoftUni**
 
