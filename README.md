@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Radi</h1>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76117a909d66bb59d2f36e4d9018ebf34e14fdd39f3d&rid=giphy.gif&ct=g">
 - 🌱 I'm currently studying **C# in SoftUni**
-
-- 💬 Ask me about **I'm 16. I love beer🍺**
 
 - 📫 How to reach me **rstambolijski@gmail.com**
 
@@ -11,7 +8,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ra9k0&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ra9k0" /></p>
 
